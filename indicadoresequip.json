@@ -1,0 +1,205 @@
+[
+    {
+        "Equipamento": "Britador Primario",
+        "QtdRiscos": 6,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 3,
+        "CustoTotal": 27033
+    },
+    {
+        "Equipamento": "Britador Secundário",
+        "QtdRiscos": 6,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 1,
+        "CustoTotal": 35905
+    },
+    {
+        "Equipamento": "Britador Terciário",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 2,
+        "CustoTotal": 50038
+    },
+    {
+        "Equipamento": "Moedor de Bolas",
+        "QtdRiscos": 6,
+        "QtdAcoesPendentes": 2,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 43808
+    },
+    {
+        "Equipamento": "Moedor SAG",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 5,
+        "CustoTotal": 37396
+    },
+    {
+        "Equipamento": "Moedor Vertical",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 2,
+        "QtdAcoesConcluidas": 8,
+        "CustoTotal": 29391
+    },
+    {
+        "Equipamento": "Correia Transportadora 1",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 50923
+    },
+    {
+        "Equipamento": "Correia Transportadora 2",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 6,
+        "CustoTotal": 48732
+    },
+    {
+        "Equipamento": "Correia Transportadora 3",
+        "QtdRiscos": 6,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 3,
+        "CustoTotal": 79870
+    },
+    {
+        "Equipamento": "Correia Transportadora 4",
+        "QtdRiscos": 5,
+        "QtdAcoesPendentes": 1,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 44689
+    },
+    {
+        "Equipamento": "Correia Transportadora 5",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 6,
+        "CustoTotal": 45957
+    },
+    {
+        "Equipamento": "Correia Transportadora 6",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 1,
+        "QtdAcoesConcluidas": 7,
+        "CustoTotal": 67558
+    },
+    {
+        "Equipamento": "Correia Transportadora 7",
+        "QtdRiscos": 6,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 2,
+        "CustoTotal": 43239
+    },
+    {
+        "Equipamento": "Silo de Armazenamento 1",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 35697
+    },
+    {
+        "Equipamento": "Silo de Armazenamento 2",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 1,
+        "QtdAcoesConcluidas": 6,
+        "CustoTotal": 75348
+    },
+    {
+        "Equipamento": "Silo de Distribuição 1",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 7,
+        "CustoTotal": 52287
+    },
+    {
+        "Equipamento": "Silo de Distribuição 2",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 76236
+    },
+    {
+        "Equipamento": "Silo de Distribuição 3",
+        "QtdRiscos": 9,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 76284
+    },
+    {
+        "Equipamento": "Peneira Vibratória 1",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 2,
+        "CustoTotal": 44454
+    },
+    {
+        "Equipamento": "Peneira Vibratória 2",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 5,
+        "CustoTotal": 65246
+    },
+    {
+        "Equipamento": "Peneira Rotativa",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 2,
+        "QtdAcoesConcluidas": 8,
+        "CustoTotal": 78342
+    },
+    {
+        "Equipamento": "Separador Magnético",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 3,
+        "CustoTotal": 75015
+    },
+    {
+        "Equipamento": "Separador Óptico",
+        "QtdRiscos": 10,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 7,
+        "CustoTotal": 79530
+    },
+    {
+        "Equipamento": "Bomba Auxiliar 1",
+        "QtdRiscos": 5,
+        "QtdAcoesPendentes": 2,
+        "QtdAcoesConcluidas": 3,
+        "CustoTotal": 20470
+    },
+    {
+        "Equipamento": "Bomba Auxiliar 2",
+        "QtdRiscos": 9,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 56866
+    },
+    {
+        "Equipamento": "Transportador Auxiliar 1",
+        "QtdRiscos": 7,
+        "QtdAcoesPendentes": 3,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 40956
+    },
+    {
+        "Equipamento": "Transportador Auxiliar 2",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 53064
+    },
+    {
+        "Equipamento": "Transportador Auxiliar 3",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 4,
+        "QtdAcoesConcluidas": 4,
+        "CustoTotal": 73967
+    },
+    {
+        "Equipamento": "Transportador Auxiliar 4",
+        "QtdRiscos": 8,
+        "QtdAcoesPendentes": 5,
+        "QtdAcoesConcluidas": 3,
+        "CustoTotal": 70499
+    }
+]
