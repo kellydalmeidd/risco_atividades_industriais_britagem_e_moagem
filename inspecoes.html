@@ -1,57 +1,404 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Inspeções - Planta de Britagem</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
-        th { background-color: #f2f2f2; }
-        tr:nth-child(even) { background-color: #f9f9f9; }
-        tr:hover { background-color: #e6f7ff; }
-    </style>
-</head>
-<body>
-    <h1>Registros de Inspeção - Planta de Britagem</h1>
-    <table>
-        <thead>
-            <tr>
-                <th>Data</th>
-                <th>Equipamento</th>
-                <th>Risco</th>
-                <th>Conformidade</th>
-                <th>Observações</th>
-                <th>Responsável</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>22/02/2026</td>
-                <td>Britador Primario</td>
-                <td>Risco de amputação</td>
-                <td>Não</td>
-                <td>Grade de proteção solta</td>
-                <td>João</td>
-            </tr>
-            <tr>
-                <td>22/02/2026</td>
-                <td>Moedor de Bolas</td>
-                <td>Vibração excessiva</td>
-                <td>Sim</td>
-                <td>Monitoramento funcionando</td>
-                <td>Carlos</td>
-            </tr>
-            <tr>
-                <td>21/02/2026</td>
-                <td>Silo de Armazenamento</td>
-                <td>Acúmulo de poeira</td>
-                <td>Não</td>
-                <td>Necessário limpar silo</td>
-                <td>Lucas</td>
-            </tr>
-            <!-- Adicione mais linhas aqui com os dados de inspeções densos -->
-        </tbody>
-    </table>
-</body>
-</html>
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Equipamento</th>
+      <th>Risco</th>
+      <th>Conformidade</th>
+      <th>Observacoes</th>
+      <th>Responsavel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/02/2026</td>
+      <td>Peneira Vibratória 1</td>
+      <td>Verificação de Vibração</td>
+      <td>Sim</td>
+      <td>Observação sobre Vibração em Peneira Vibratória 1</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>12/01/2026</td>
+      <td>Moedor SAG</td>
+      <td>Verificação de Elétrico</td>
+      <td>Sim</td>
+      <td>Observação sobre Elétrico em Moedor SAG</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>10/01/2026</td>
+      <td>Transportador Auxiliar 3</td>
+      <td>Verificação de Ruído</td>
+      <td>Sim</td>
+      <td>Observação sobre Ruído em Transportador Auxiliar 3</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>29/01/2026</td>
+      <td>Separador Óptico</td>
+      <td>Verificação de Elétrico</td>
+      <td>Não</td>
+      <td>Observação sobre Elétrico em Separador Óptico</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>11/02/2026</td>
+      <td>Correia Transportadora 7</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Correia Transportadora 7</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>05/02/2026</td>
+      <td>Correia Transportadora 1</td>
+      <td>Verificação de Ruído</td>
+      <td>Não</td>
+      <td>Observação sobre Ruído em Correia Transportadora 1</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>28/01/2026</td>
+      <td>Transportador Auxiliar 1</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Transportador Auxiliar 1</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>09/02/2026</td>
+      <td>Correia Transportadora 1</td>
+      <td>Verificação de Vibração</td>
+      <td>Não</td>
+      <td>Observação sobre Vibração em Correia Transportadora 1</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>23/01/2026</td>
+      <td>Britador Terciário</td>
+      <td>Verificação de Ruído</td>
+      <td>Sim</td>
+      <td>Observação sobre Ruído em Britador Terciário</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>20/02/2026</td>
+      <td>Britador Secundário</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Não</td>
+      <td>Observação sobre Ergonômico em Britador Secundário</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>04/02/2026</td>
+      <td>Moedor Vertical</td>
+      <td>Verificação de Mecânico</td>
+      <td>Não</td>
+      <td>Observação sobre Mecânico em Moedor Vertical</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>26/01/2026</td>
+      <td>Silo de Armazenamento 1</td>
+      <td>Verificação de Vibração</td>
+      <td>Não</td>
+      <td>Observação sobre Vibração em Silo de Armazenamento 1</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>16/02/2026</td>
+      <td>Correia Transportadora 6</td>
+      <td>Verificação de Elétrico</td>
+      <td>Não</td>
+      <td>Observação sobre Elétrico em Correia Transportadora 6</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>02/01/2026</td>
+      <td>Britador Primario</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Britador Primario</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>29/01/2026</td>
+      <td>Britador Primario</td>
+      <td>Verificação de Mecânico</td>
+      <td>Sim</td>
+      <td>Observação sobre Mecânico em Britador Primario</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>10/01/2026</td>
+      <td>Britador Primario</td>
+      <td>Verificação de Químico</td>
+      <td>Não</td>
+      <td>Observação sobre Químico em Britador Primario</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>30/01/2026</td>
+      <td>Moedor Vertical</td>
+      <td>Verificação de Elétrico</td>
+      <td>Sim</td>
+      <td>Observação sobre Elétrico em Moedor Vertical</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>22/01/2026</td>
+      <td>Silo de Distribuição 1</td>
+      <td>Verificação de Explosão</td>
+      <td>Sim</td>
+      <td>Observação sobre Explosão em Silo de Distribuição 1</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>21/01/2026</td>
+      <td>Bomba Auxiliar 2</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Bomba Auxiliar 2</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>07/01/2026</td>
+      <td>Peneira Vibratória 1</td>
+      <td>Verificação de Químico</td>
+      <td>Não</td>
+      <td>Observação sobre Químico em Peneira Vibratória 1</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>03/01/2026</td>
+      <td>Correia Transportadora 5</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Correia Transportadora 5</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>18/02/2026</td>
+      <td>Bomba Auxiliar 1</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Sim</td>
+      <td>Observação sobre Ergonômico em Bomba Auxiliar 1</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>21/02/2026</td>
+      <td>Silo de Armazenamento 1</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Silo de Armazenamento 1</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>20/01/2026</td>
+      <td>Bomba Auxiliar 2</td>
+      <td>Verificação de Vibração</td>
+      <td>Não</td>
+      <td>Observação sobre Vibração em Bomba Auxiliar 2</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>19/02/2026</td>
+      <td>Transportador Auxiliar 3</td>
+      <td>Verificação de Mecânico</td>
+      <td>Sim</td>
+      <td>Observação sobre Mecânico em Transportador Auxiliar 3</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>20/02/2026</td>
+      <td>Bomba Auxiliar 2</td>
+      <td>Verificação de Mecânico</td>
+      <td>Sim</td>
+      <td>Observação sobre Mecânico em Bomba Auxiliar 2</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>13/01/2026</td>
+      <td>Correia Transportadora 6</td>
+      <td>Verificação de Elétrico</td>
+      <td>Sim</td>
+      <td>Observação sobre Elétrico em Correia Transportadora 6</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>29/01/2026</td>
+      <td>Silo de Armazenamento 2</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Não</td>
+      <td>Observação sobre Ergonômico em Silo de Armazenamento 2</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>11/01/2026</td>
+      <td>Bomba Auxiliar 1</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Não</td>
+      <td>Observação sobre Ergonômico em Bomba Auxiliar 1</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>11/02/2026</td>
+      <td>Britador Primario</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Sim</td>
+      <td>Observação sobre Ergonômico em Britador Primario</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>02/01/2026</td>
+      <td>Silo de Distribuição 1</td>
+      <td>Verificação de Ruído</td>
+      <td>Não</td>
+      <td>Observação sobre Ruído em Silo de Distribuição 1</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>13/01/2026</td>
+      <td>Britador Secundário</td>
+      <td>Verificação de Mecânico</td>
+      <td>Sim</td>
+      <td>Observação sobre Mecânico em Britador Secundário</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>09/02/2026</td>
+      <td>Transportador Auxiliar 1</td>
+      <td>Verificação de Poeira</td>
+      <td>Não</td>
+      <td>Observação sobre Poeira em Transportador Auxiliar 1</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>19/02/2026</td>
+      <td>Transportador Auxiliar 3</td>
+      <td>Verificação de Elétrico</td>
+      <td>Não</td>
+      <td>Observação sobre Elétrico em Transportador Auxiliar 3</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>18/01/2026</td>
+      <td>Transportador Auxiliar 4</td>
+      <td>Verificação de Vibração</td>
+      <td>Sim</td>
+      <td>Observação sobre Vibração em Transportador Auxiliar 4</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>03/01/2026</td>
+      <td>Correia Transportadora 7</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Não</td>
+      <td>Observação sobre Ergonômico em Correia Transportadora 7</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>30/01/2026</td>
+      <td>Moedor Vertical</td>
+      <td>Verificação de Ruído</td>
+      <td>Não</td>
+      <td>Observação sobre Ruído em Moedor Vertical</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>12/01/2026</td>
+      <td>Britador Terciário</td>
+      <td>Verificação de Ergonômico</td>
+      <td>Sim</td>
+      <td>Observação sobre Ergonômico em Britador Terciário</td>
+      <td>João</td>
+    </tr>
+    <tr>
+      <td>17/01/2026</td>
+      <td>Transportador Auxiliar 1</td>
+      <td>Verificação de Mecânico</td>
+      <td>Sim</td>
+      <td>Observação sobre Mecânico em Transportador Auxiliar 1</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>01/01/2026</td>
+      <td>Peneira Rotativa</td>
+      <td>Verificação de Explosão</td>
+      <td>Não</td>
+      <td>Observação sobre Explosão em Peneira Rotativa</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>15/01/2026</td>
+      <td>Peneira Vibratória 2</td>
+      <td>Verificação de Poeira</td>
+      <td>Sim</td>
+      <td>Observação sobre Poeira em Peneira Vibratória 2</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>16/02/2026</td>
+      <td>Correia Transportadora 5</td>
+      <td>Verificação de Químico</td>
+      <td>Sim</td>
+      <td>Observação sobre Químico em Correia Transportadora 5</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>03/01/2026</td>
+      <td>Correia Transportadora 4</td>
+      <td>Verificação de Vibração</td>
+      <td>Sim</td>
+      <td>Observação sobre Vibração em Correia Transportadora 4</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>30/01/2026</td>
+      <td>Moedor SAG</td>
+      <td>Verificação de Vibração</td>
+      <td>Sim</td>
+      <td>Observação sobre Vibração em Moedor SAG</td>
+      <td>Paula</td>
+    </tr>
+    <tr>
+      <td>01/01/2026</td>
+      <td>Silo de Distribuição 3</td>
+      <td>Verificação de Vibração</td>
+      <td>Sim</td>
+      <td>Observação sobre Vibração em Silo de Distribuição 3</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>17/01/2026</td>
+      <td>Moedor de Bolas</td>
+      <td>Verificação de Explosão</td>
+      <td>Sim</td>
+      <td>Observação sobre Explosão em Moedor de Bolas</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>09/02/2026</td>
+      <td>Correia Transportadora 7</td>
+      <td>Verificação de Explosão</td>
+      <td>Sim</td>
+      <td>Observação sobre Explosão em Correia Transportadora 7</td>
+      <td>Maria</td>
+    </tr>
+    <tr>
+      <td>19/01/2026</td>
+      <td>Peneira Vibratória 2</td>
+      <td>Verificação de Químico</td>
+      <td>Sim</td>
+      <td>Observação sobre Químico em Peneira Vibratória 2</td>
+      <td>Carlos</td>
+    </tr>
+    <tr>
+      <td>12/01/2026</td>
+      <td>Moedor SAG</td>
+      <td>Verificação de Elétrico</td>
+      <td>Sim</td>
+      <td>Observação sobre Elétrico em Moedor SAG</td>
+      <td>Paula</td>
+   
