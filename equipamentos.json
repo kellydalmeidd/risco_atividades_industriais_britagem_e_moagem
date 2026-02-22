@@ -1,0 +1,234 @@
+[
+    {
+        "ID": "E001",
+        "Nome": "Britador Primario",
+        "Tipo": "Britador",
+        "Localizacao": "Setor 1",
+        "Status": "Em Manutenção",
+        "Responsavel": "Paula"
+    },
+    {
+        "ID": "E002",
+        "Nome": "Britador Secundário",
+        "Tipo": "Britador",
+        "Localizacao": "Setor 2",
+        "Status": "Operacional",
+        "Responsavel": "Paula"
+    },
+    {
+        "ID": "E003",
+        "Nome": "Britador Terciário",
+        "Tipo": "Britador",
+        "Localizacao": "Setor 3",
+        "Status": "Em Manutenção",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E004",
+        "Nome": "Moedor de Bolas",
+        "Tipo": "Moedor",
+        "Localizacao": "Setor 4",
+        "Status": "Operacional",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E005",
+        "Nome": "Moedor SAG",
+        "Tipo": "Moedor",
+        "Localizacao": "Setor 5",
+        "Status": "Em Manutenção",
+        "Responsavel": "Carlos"
+    },
+    {
+        "ID": "E006",
+        "Nome": "Moedor Vertical",
+        "Tipo": "Moedor",
+        "Localizacao": "Setor 6",
+        "Status": "Operacional",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E007",
+        "Nome": "Correia Transportadora 1",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 7",
+        "Status": "Operacional",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E008",
+        "Nome": "Correia Transportadora 2",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 8",
+        "Status": "Operacional",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E009",
+        "Nome": "Correia Transportadora 3",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 9",
+        "Status": "Operacional",
+        "Responsavel": "Carlos"
+    },
+    {
+        "ID": "E010",
+        "Nome": "Correia Transportadora 4",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 10",
+        "Status": "Em Manutenção",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E011",
+        "Nome": "Correia Transportadora 5",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 11",
+        "Status": "Em Manutenção",
+        "Responsavel": "Lucas"
+    },
+    {
+        "ID": "E012",
+        "Nome": "Correia Transportadora 6",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 12",
+        "Status": "Em Manutenção",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E013",
+        "Nome": "Correia Transportadora 7",
+        "Tipo": "Correia",
+        "Localizacao": "Setor 13",
+        "Status": "Operacional",
+        "Responsavel": "Lucas"
+    },
+    {
+        "ID": "E014",
+        "Nome": "Silo de Armazenamento 1",
+        "Tipo": "Silo",
+        "Localizacao": "Setor 14",
+        "Status": "Em Manutenção",
+        "Responsavel": "Paula"
+    },
+    {
+        "ID": "E015",
+        "Nome": "Silo de Armazenamento 2",
+        "Tipo": "Silo",
+        "Localizacao": "Setor 15",
+        "Status": "Em Manutenção",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E016",
+        "Nome": "Silo de Distribuição 1",
+        "Tipo": "Silo",
+        "Localizacao": "Setor 16",
+        "Status": "Operacional",
+        "Responsavel": "Carlos"
+    },
+    {
+        "ID": "E017",
+        "Nome": "Silo de Distribuição 2",
+        "Tipo": "Silo",
+        "Localizacao": "Setor 17",
+        "Status": "Em Manutenção",
+        "Responsavel": "Lucas"
+    },
+    {
+        "ID": "E018",
+        "Nome": "Silo de Distribuição 3",
+        "Tipo": "Silo",
+        "Localizacao": "Setor 18",
+        "Status": "Em Manutenção",
+        "Responsavel": "Paula"
+    },
+    {
+        "ID": "E019",
+        "Nome": "Peneira Vibratória 1",
+        "Tipo": "Peneira",
+        "Localizacao": "Setor 19",
+        "Status": "Operacional",
+        "Responsavel": "Carlos"
+    },
+    {
+        "ID": "E020",
+        "Nome": "Peneira Vibratória 2",
+        "Tipo": "Peneira",
+        "Localizacao": "Setor 20",
+        "Status": "Operacional",
+        "Responsavel": "Paula"
+    },
+    {
+        "ID": "E021",
+        "Nome": "Peneira Rotativa",
+        "Tipo": "Peneira",
+        "Localizacao": "Setor 21",
+        "Status": "Operacional",
+        "Responsavel": "Lucas"
+    },
+    {
+        "ID": "E022",
+        "Nome": "Separador Magnético",
+        "Tipo": "Separador",
+        "Localizacao": "Setor 22",
+        "Status": "Operacional",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E023",
+        "Nome": "Separador Óptico",
+        "Tipo": "Separador",
+        "Localizacao": "Setor 23",
+        "Status": "Em Manutenção",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E024",
+        "Nome": "Bomba Auxiliar 1",
+        "Tipo": "Bomba",
+        "Localizacao": "Setor 24",
+        "Status": "Em Manutenção",
+        "Responsavel": "Lucas"
+    },
+    {
+        "ID": "E025",
+        "Nome": "Bomba Auxiliar 2",
+        "Tipo": "Bomba",
+        "Localizacao": "Setor 25",
+        "Status": "Em Manutenção",
+        "Responsavel": "Maria"
+    },
+    {
+        "ID": "E026",
+        "Nome": "Transportador Auxiliar 1",
+        "Tipo": "Transportador",
+        "Localizacao": "Setor 26",
+        "Status": "Em Manutenção",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E027",
+        "Nome": "Transportador Auxiliar 2",
+        "Tipo": "Transportador",
+        "Localizacao": "Setor 27",
+        "Status": "Operacional",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E028",
+        "Nome": "Transportador Auxiliar 3",
+        "Tipo": "Transportador",
+        "Localizacao": "Setor 28",
+        "Status": "Em Manutenção",
+        "Responsavel": "João"
+    },
+    {
+        "ID": "E029",
+        "Nome": "Transportador Auxiliar 4",
+        "Tipo": "Transportador",
+        "Localizacao": "Setor 29",
+        "Status": "Em Manutenção",
+        "Responsavel": "Carlos"
+    }
+]
