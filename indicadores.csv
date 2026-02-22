@@ -1,0 +1,9 @@
+TipoRisco,Quantidade,CustoTotal,PrioridadeAlta,PrioridadeMedia,PrioridadeBaixa
+Mecanico,17,56578,4,2,0
+Poeira,17,45337,10,2,2
+Vibracao,12,85351,6,3,0
+Ruido,23,65453,9,1,2
+Explosao,22,73557,4,3,1
+Quimico,16,29563,4,4,0
+Eletrico,10,30128,6,5,2
+Ergonomico,23,74116,7,4,0
