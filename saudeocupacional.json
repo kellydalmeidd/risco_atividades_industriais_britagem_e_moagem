@@ -1,0 +1,25 @@
+[
+{"RegistroID":1,"Data":"2024-01-01","Ano":2024,"Mes":1,"Area":"Britagem Primaria","FuncionariosExpostos":58,"HorasTrabalhadas":11200,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":6,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":2,"Data":"2024-02-01","Ano":2024,"Mes":2,"Area":"Moagem","FuncionariosExpostos":60,"HorasTrabalhadas":11800,"AcidentesComAfastamento":1,"AfastamentosLongos":1,"AtestadosMedicos":5,"NearMiss":7,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":3},
+
+{"RegistroID":3,"Data":"2024-03-01","Ano":2024,"Mes":3,"Area":"Correias Transporte","FuncionariosExpostos":55,"HorasTrabalhadas":10900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":5,"CasosRespiratorios":1,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":4,"Data":"2024-04-01","Ano":2024,"Mes":4,"Area":"Britagem Secundaria","FuncionariosExpostos":59,"HorasTrabalhadas":11400,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":6,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":1},
+
+{"RegistroID":5,"Data":"2024-05-01","Ano":2024,"Mes":5,"Area":"Moagem","FuncionariosExpostos":61,"HorasTrabalhadas":12000,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":5,"NearMiss":8,"CasosRespiratorios":2,"CasosAuditivos":2,"CasosErgonomicos":2},
+
+{"RegistroID":6,"Data":"2024-06-01","Ano":2024,"Mes":6,"Area":"Britagem Primaria","FuncionariosExpostos":57,"HorasTrabalhadas":11100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":5,"CasosRespiratorios":1,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":7,"Data":"2024-07-01","Ano":2024,"Mes":7,"Area":"Correias Transporte","FuncionariosExpostos":56,"HorasTrabalhadas":10800,"AcidentesComAfastamento":1,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":7,"CasosRespiratorios":1,"CasosAuditivos":1,"CasosErgonomicos":3},
+
+{"RegistroID":8,"Data":"2024-08-01","Ano":2024,"Mes":8,"Area":"Moagem","FuncionariosExpostos":62,"HorasTrabalhadas":12100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":6,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":9,"Data":"2024-09-01","Ano":2024,"Mes":9,"Area":"Britagem Secundaria","FuncionariosExpostos":58,"HorasTrabalhadas":11300,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":5,"CasosRespiratorios":1,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":10,"Data":"2024-10-01","Ano":2024,"Mes":10,"Area":"Moagem","FuncionariosExpostos":60,"HorasTrabalhadas":11700,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":6,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":11,"Data":"2024-11-01","Ano":2024,"Mes":11,"Area":"Britagem Primaria","FuncionariosExpostos":59,"HorasTrabalhadas":11500,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":5,"CasosRespiratorios":1,"CasosAuditivos":1,"CasosErgonomicos":2},
+
+{"RegistroID":12,"Data":"2024-12-01","Ano":2024,"Mes":12,"Area":"Geral Planta","FuncionariosExpostos":61,"HorasTrabalhadas":11900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":4,"NearMiss":6,"CasosRespiratorios":2,"CasosAuditivos":1,"CasosErgonomicos":2}
+]
