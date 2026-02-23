@@ -1,25 +1,49 @@
 [
-{"RegistroID":1,"Data":"2024-01-01","Ano":2024,"Mes":1,"Area":"Britagem Primaria","FuncionariosExpostos":58,"HorasTrabalhadas":11200,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":1,"Data":"2024-01-01","Ano":2024,"Mes":1,"Area":"Britador","FuncionariosExpostos":58,"HorasTrabalhadas":11200,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
 
-{"RegistroID":2,"Data":"2024-02-01","Ano":2024,"Mes":2,"Area":"Moagem","FuncionariosExpostos":60,"HorasTrabalhadas":11800,"AcidentesComAfastamento":1,"AfastamentosLongos":1,"AtestadosMedicos":3,"NearMiss":4},
+  {"RegistroID":2,"Data":"2024-02-01","Ano":2024,"Mes":2,"Area":"Moedor","FuncionariosExpostos":60,"HorasTrabalhadas":11800,"AcidentesComAfastamento":1,"AfastamentosLongos":1,"AtestadosMedicos":3,"NearMiss":4,"Motivo":"Ergonomico"},
 
-{"RegistroID":3,"Data":"2024-03-01","Ano":2024,"Mes":3,"Area":"Correias Transporte","FuncionariosExpostos":55,"HorasTrabalhadas":10900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":3,"Data":"2024-03-01","Ano":2024,"Mes":3,"Area":"Correira","FuncionariosExpostos":55,"HorasTrabalhadas":10900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
 
-{"RegistroID":4,"Data":"2024-04-01","Ano":2024,"Mes":4,"Area":"Britagem Secundaria","FuncionariosExpostos":59,"HorasTrabalhadas":11400,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":4,"Data":"2024-04-01","Ano":2024,"Mes":4,"Area":"Britador","FuncionariosExpostos":59,"HorasTrabalhadas":11400,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Quimico"},
 
-{"RegistroID":5,"Data":"2024-05-01","Ano":2024,"Mes":5,"Area":"Moagem","FuncionariosExpostos":61,"HorasTrabalhadas":12000,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":4},
+  {"RegistroID":5,"Data":"2024-05-01","Ano":2024,"Mes":5,"Area":"Moedor","FuncionariosExpostos":61,"HorasTrabalhadas":12000,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":4,"Motivo":"Poeira"},
 
-{"RegistroID":6,"Data":"2024-06-01","Ano":2024,"Mes":6,"Area":"Britagem Primaria","FuncionariosExpostos":57,"HorasTrabalhadas":11100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2},
+  {"RegistroID":6,"Data":"2024-06-01","Ano":2024,"Mes":6,"Area":"Britador","FuncionariosExpostos":57,"HorasTrabalhadas":11100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2,"Motivo":"Estresse/Fadiga"},
 
-{"RegistroID":7,"Data":"2024-07-01","Ano":2024,"Mes":7,"Area":"Correias Transporte","FuncionariosExpostos":56,"HorasTrabalhadas":10800,"AcidentesComAfastamento":1,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":7,"Data":"2024-07-01","Ano":2024,"Mes":7,"Area":"Correira","FuncionariosExpostos":56,"HorasTrabalhadas":10800,"AcidentesComAfastamento":1,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Ergonomico"},
 
-{"RegistroID":8,"Data":"2024-08-01","Ano":2024,"Mes":8,"Area":"Moagem","FuncionariosExpostos":62,"HorasTrabalhadas":12100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":8,"Data":"2024-08-01","Ano":2024,"Mes":8,"Area":"Moedor","FuncionariosExpostos":62,"HorasTrabalhadas":12100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Quimico"},
 
-{"RegistroID":9,"Data":"2024-09-01","Ano":2024,"Mes":9,"Area":"Britagem Secundaria","FuncionariosExpostos":58,"HorasTrabalhadas":11300,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2},
+  {"RegistroID":9,"Data":"2024-09-01","Ano":2024,"Mes":9,"Area":"Britador","FuncionariosExpostos":58,"HorasTrabalhadas":11300,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2,"Motivo":"Poeira"},
 
-{"RegistroID":10,"Data":"2024-10-01","Ano":2024,"Mes":10,"Area":"Moagem","FuncionariosExpostos":60,"HorasTrabalhadas":11700,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3},
+  {"RegistroID":10,"Data":"2024-10-01","Ano":2024,"Mes":10,"Area":"Moedor","FuncionariosExpostos":60,"HorasTrabalhadas":11700,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Estresse/Fadiga"},
 
-{"RegistroID":11,"Data":"2024-11-01","Ano":2024,"Mes":11,"Area":"Britagem Primaria","FuncionariosExpostos":59,"HorasTrabalhadas":11500,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2},
+  {"RegistroID":11,"Data":"2024-11-01","Ano":2024,"Mes":11,"Area":"Britador","FuncionariosExpostos":59,"HorasTrabalhadas":11500,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2,"Motivo":"Ergonomico"},
 
-{"RegistroID":12,"Data":"2024-12-01","Ano":2024,"Mes":12,"Area":"Geral Planta","FuncionariosExpostos":61,"HorasTrabalhadas":11900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3}
+  {"RegistroID":12,"Data":"2024-12-01","Ano":2024,"Mes":12,"Area":"Silo","FuncionariosExpostos":61,"HorasTrabalhadas":11900,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Quimico"},
+
+  {"RegistroID":101,"Data":"2025-01-01","Ano":2025,"Mes":1,"Area":"Britador","FuncionariosExpostos":59,"HorasTrabalhadas":11300,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
+
+  {"RegistroID":102,"Data":"2025-02-01","Ano":2025,"Mes":2,"Area":"Moedor","FuncionariosExpostos":61,"HorasTrabalhadas":11900,"AcidentesComAfastamento":1,"AfastamentosLongos":1,"AtestadosMedicos":3,"NearMiss":4,"Motivo":"Ergonomico"},
+
+  {"RegistroID":103,"Data":"2025-03-01","Ano":2025,"Mes":3,"Area":"Correira","FuncionariosExpostos":56,"HorasTrabalhadas":11000,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
+
+  {"RegistroID":104,"Data":"2025-04-01","Ano":2025,"Mes":4,"Area":"Britador","FuncionariosExpostos":60,"HorasTrabalhadas":11500,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Quimico"},
+
+  {"RegistroID":105,"Data":"2025-05-01","Ano":2025,"Mes":5,"Area":"Moedor","FuncionariosExpostos":62,"HorasTrabalhadas":12100,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":3,"NearMiss":4,"Motivo":"Poeira"},
+
+  {"RegistroID":106,"Data":"2025-06-01","Ano":2025,"Mes":6,"Area":"Britador","FuncionariosExpostos":58,"HorasTrabalhadas":11200,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2,"Motivo":"Estresse/Fadiga"},
+
+  {"RegistroID":107,"Data":"2025-07-01","Ano":2025,"Mes":7,"Area":"Correira","FuncionariosExpostos":57,"HorasTrabalhadas":10900,"AcidentesComAfastamento":1,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Ergonomico"},
+
+  {"RegistroID":108,"Data":"2025-08-01","Ano":2025,"Mes":8,"Area":"Moedor","FuncionariosExpostos":63,"HorasTrabalhadas":12200,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
+
+  {"RegistroID":109,"Data":"2025-09-01","Ano":2025,"Mes":9,"Area":"Britador","FuncionariosExpostos":59,"HorasTrabalhadas":11400,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":2,"Motivo":"Ergonomico"},
+
+  {"RegistroID":110,"Data":"2025-10-01","Ano":2025,"Mes":10,"Area":"Moedor","FuncionariosExpostos":61,"HorasTrabalhadas":11800,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Quimico"},
+
+  {"RegistroID":111,"Data":"2025-11-01","Ano":2025,"Mes":11,"Area":"Silo","FuncionariosExpostos":62,"HorasTrabalhadas":12000,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Poeira"},
+
+  {"RegistroID":112,"Data":"2025-12-01","Ano":2025,"Mes":12,"Area":"Peneira","FuncionariosExpostos":60,"HorasTrabalhadas":11700,"AcidentesComAfastamento":0,"AfastamentosLongos":0,"AtestadosMedicos":2,"NearMiss":3,"Motivo":"Estresse/Fadiga"}
 ]
